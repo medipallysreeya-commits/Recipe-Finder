@@ -1,0 +1,17 @@
+RECIPE: Matar Paneer
+
+CATEGORY: Vegetarian
+KEYWORDS: Paneer, Green Peas, Tomato, Onion, Garam Masala
+
+INGREDIENTS:
+- Paneer
+- Green Peas
+- Tomato
+- Onion
+- Garam Masala
+
+INSTRUCTIONS:
+Cook onion and tomato gravy, add peas and spices, then simmer with paneer.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Paneer, Green Peas, Tomato. This recipe is included in the Recipe Finder corpus for pattern-search testing.

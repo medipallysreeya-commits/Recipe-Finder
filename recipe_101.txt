@@ -1,0 +1,17 @@
+RECIPE: Vegetable Fried Rice
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Carrot, Beans, Capsicum, Soy Sauce
+
+INGREDIENTS:
+- Rice
+- Carrot
+- Beans
+- Capsicum
+- Soy Sauce
+
+INSTRUCTIONS:
+Stir-fry vegetables, add cooked rice and soy sauce, and toss until hot.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Carrot, Beans. This recipe is included in the Recipe Finder corpus for pattern-search testing.

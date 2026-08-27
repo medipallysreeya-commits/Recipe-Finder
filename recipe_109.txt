@@ -1,0 +1,17 @@
+RECIPE: Stuffed Capsicum
+
+CATEGORY: Vegetarian
+KEYWORDS: Capsicum, Potato, Onion, Peas, Cheese
+
+INGREDIENTS:
+- Capsicum
+- Potato
+- Onion
+- Peas
+- Cheese
+
+INSTRUCTIONS:
+Prepare a spiced potato and pea filling, stuff the capsicums and bake until tender.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Capsicum, Potato, Onion. This recipe is included in the Recipe Finder corpus for pattern-search testing.

@@ -1,0 +1,17 @@
+RECIPE: Dal Tadka
+
+CATEGORY: Vegetarian
+KEYWORDS: Toor Dal, Tomato, Onion, Garlic, Cumin
+
+INGREDIENTS:
+- Toor Dal
+- Tomato
+- Onion
+- Garlic
+- Cumin
+
+INSTRUCTIONS:
+Cook dal until soft. Prepare a cumin, onion, tomato and garlic tempering and mix it into the dal.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Toor Dal, Tomato, Onion. This recipe is included in the Recipe Finder corpus for pattern-search testing.

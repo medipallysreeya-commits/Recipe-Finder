@@ -1,0 +1,17 @@
+RECIPE: Rajma Masala
+
+CATEGORY: Vegetarian
+KEYWORDS: Kidney Beans, Tomato, Onion, Ginger, Garlic
+
+INGREDIENTS:
+- Kidney Beans
+- Tomato
+- Onion
+- Ginger
+- Garlic
+
+INSTRUCTIONS:
+Cook kidney beans until tender. Simmer them in an onion-tomato masala with spices.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Kidney Beans, Tomato, Onion. This recipe is included in the Recipe Finder corpus for pattern-search testing.

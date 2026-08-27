@@ -1,0 +1,17 @@
+RECIPE: Vegetable Noodles
+
+CATEGORY: Vegetarian
+KEYWORDS: Noodles, Carrot, Capsicum, Cabbage, Soy Sauce
+
+INGREDIENTS:
+- Noodles
+- Carrot
+- Capsicum
+- Cabbage
+- Soy Sauce
+
+INSTRUCTIONS:
+Boil noodles. Stir-fry vegetables, add noodles and sauce, and toss well.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Noodles, Carrot, Capsicum. This recipe is included in the Recipe Finder corpus for pattern-search testing.

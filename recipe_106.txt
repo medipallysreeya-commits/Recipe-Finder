@@ -1,0 +1,17 @@
+RECIPE: Lemon Rice
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Lemon, Peanuts, Green Chilli, Mustard Seeds
+
+INGREDIENTS:
+- Rice
+- Lemon
+- Peanuts
+- Green Chilli
+- Mustard Seeds
+
+INSTRUCTIONS:
+Temper mustard seeds and peanuts, add cooked rice and finish with fresh lemon juice.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Lemon, Peanuts. This recipe is included in the Recipe Finder corpus for pattern-search testing.

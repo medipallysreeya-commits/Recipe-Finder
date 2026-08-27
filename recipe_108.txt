@@ -1,0 +1,17 @@
+RECIPE: Moong Dal Khichdi
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Moong Dal, Carrot, Turmeric, Cumin
+
+INGREDIENTS:
+- Rice
+- Moong Dal
+- Carrot
+- Turmeric
+- Cumin
+
+INSTRUCTIONS:
+Cook rice and moong dal together with vegetables, turmeric and cumin until soft.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Moong Dal, Carrot. This recipe is included in the Recipe Finder corpus for pattern-search testing.

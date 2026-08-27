@@ -1,0 +1,17 @@
+RECIPE: Coconut Rice
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Coconut, Peanuts, Green Chilli, Curry Leaves
+
+INGREDIENTS:
+- Rice
+- Coconut
+- Peanuts
+- Green Chilli
+- Curry Leaves
+
+INSTRUCTIONS:
+Temper curry leaves and peanuts, add grated coconut and cooked rice, then mix gently.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Coconut, Peanuts. This recipe is included in the Recipe Finder corpus for pattern-search testing.

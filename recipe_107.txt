@@ -1,0 +1,17 @@
+RECIPE: Vegetable Korma
+
+CATEGORY: Vegetarian
+KEYWORDS: Carrot, Beans, Peas, Cashew, Yogurt
+
+INGREDIENTS:
+- Carrot
+- Beans
+- Peas
+- Cashew
+- Yogurt
+
+INSTRUCTIONS:
+Cook mixed vegetables and simmer them in a mild cashew-yogurt gravy.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Carrot, Beans, Peas. This recipe is included in the Recipe Finder corpus for pattern-search testing.
