@@ -1,0 +1,18 @@
+RECIPE: Aloo Gobi 6
+
+CATEGORY: Vegetarian
+KEYWORDS: Potato, Cauliflower, Onion, Tomato, Turmeric, Cumin
+
+INGREDIENTS:
+- Potato
+- Cauliflower
+- Onion
+- Tomato
+- Turmeric
+- Cumin
+
+INSTRUCTIONS:
+Saute cumin and onion, add potato and cauliflower, season and cook until tender.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Potato, Cauliflower, Onion. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

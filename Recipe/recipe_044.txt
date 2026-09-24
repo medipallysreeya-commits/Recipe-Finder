@@ -1,0 +1,18 @@
+RECIPE: Chana Masala 5
+
+CATEGORY: Vegetarian
+KEYWORDS: Chickpeas, Tomato, Onion, Ginger, Garlic, Chilli Powder
+
+INGREDIENTS:
+- Chickpeas
+- Tomato
+- Onion
+- Ginger
+- Garlic
+- Chilli Powder
+
+INSTRUCTIONS:
+Cook chickpeas. Prepare onion-tomato masala and simmer the chickpeas in it.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Chickpeas, Tomato, Onion. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

@@ -1,0 +1,18 @@
+RECIPE: Vegetable Biryani 4
+
+CATEGORY: Vegetarian
+KEYWORDS: Basmati Rice, Carrot, Beans, Peas, Potato, Yogurt
+
+INGREDIENTS:
+- Basmati Rice
+- Carrot
+- Beans
+- Peas
+- Potato
+- Yogurt
+
+INSTRUCTIONS:
+Cook spiced vegetables and rice in layers, then steam until fragrant.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Basmati Rice, Carrot, Beans. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

@@ -1,0 +1,15 @@
+RECIPE: Idli 5
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Urad Dal, Salt
+
+INGREDIENTS:
+- Rice
+- Urad Dal
+- Salt
+
+INSTRUCTIONS:
+Soak, grind and ferment rice and urad dal batter. Steam the batter in idli moulds.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Urad Dal, Salt. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

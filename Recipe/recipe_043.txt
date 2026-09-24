@@ -1,0 +1,18 @@
+RECIPE: Paneer Butter Masala 5
+
+CATEGORY: Vegetarian
+KEYWORDS: Paneer, Tomato, Onion, Butter, Cream, Garam Masala
+
+INGREDIENTS:
+- Paneer
+- Tomato
+- Onion
+- Butter
+- Cream
+- Garam Masala
+
+INSTRUCTIONS:
+Prepare a tomato-onion gravy, add butter and spices, then simmer with paneer and cream.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Paneer, Tomato, Onion. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.
