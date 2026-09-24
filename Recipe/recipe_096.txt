@@ -1,0 +1,18 @@
+RECIPE: Palak Paneer 10
+
+CATEGORY: Vegetarian
+KEYWORDS: Spinach, Paneer, Onion, Tomato, Garlic, Garam Masala
+
+INGREDIENTS:
+- Spinach
+- Paneer
+- Onion
+- Tomato
+- Garlic
+- Garam Masala
+
+INSTRUCTIONS:
+Blanch spinach and blend. Cook with onion and tomato, then add paneer and spices.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Spinach, Paneer, Onion. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

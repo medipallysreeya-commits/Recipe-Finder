@@ -1,0 +1,17 @@
+RECIPE: Tomato Rice 9
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Tomato, Onion, Green Chilli, Salt
+
+INGREDIENTS:
+- Rice
+- Tomato
+- Onion
+- Green Chilli
+- Salt
+
+INSTRUCTIONS:
+Cook rice. Saute onion and green chilli, add tomato and spices, then mix with rice.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Tomato, Onion. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.

@@ -1,0 +1,18 @@
+RECIPE: Vegetable Pulao 10
+
+CATEGORY: Vegetarian
+KEYWORDS: Basmati Rice, Carrot, Beans, Peas, Onion, Garam Masala
+
+INGREDIENTS:
+- Basmati Rice
+- Carrot
+- Beans
+- Peas
+- Onion
+- Garam Masala
+
+INSTRUCTIONS:
+Saute onion and vegetables. Add rice, water and spices, then cook until tender.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Basmati Rice, Carrot, Beans. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.
