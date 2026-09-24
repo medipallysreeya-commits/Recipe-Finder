@@ -1,0 +1,17 @@
+RECIPE: Masala Dosa 1
+
+CATEGORY: Vegetarian
+KEYWORDS: Rice, Urad Dal, Potato, Onion, Mustard Seeds
+
+INGREDIENTS:
+- Rice
+- Urad Dal
+- Potato
+- Onion
+- Mustard Seeds
+
+INSTRUCTIONS:
+Prepare fermented dosa batter. Make potato masala and cook thin dosas on a hot pan.
+
+DESCRIPTION:
+A simple vegetarian recipe featuring Rice, Urad Dal, Potato. This recipe is suitable for everyday cooking and can be searched using ingredient or recipe keywords.
